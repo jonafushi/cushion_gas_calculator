@@ -1,7 +1,7 @@
 # cushion_gas_calculator
 Python code to calculate cushion gas requirement for closed gas storage reservoirs
 
-Paper with explaination is here: https://doi.org/10.1144/SP528-2022-71
+Paper with explanation is here: https://doi.org/10.1144/SP528-2022-71
 
 Cite as: Scafidi, J., Schirrer, L., Vervoort, I., &#38; Heinemann, N. (2023). An open-source tool for the calculation of field deliverability and cushion-gas requirements in volumetric gas-reservoir storage sites. Geological Society, London, Special Publications, 528(1). https://doi.org/10.1144/SP528-2022-71
 
